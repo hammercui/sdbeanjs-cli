@@ -3,7 +3,8 @@
 ## 安装
 
 ```
-npm install sdbeanjs-cli -g
+npm install sdbeanjs-cli @tarojs/cli -g
+
 ```
 
 ## 创建umi项目
